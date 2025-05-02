@@ -37,6 +37,7 @@ function FindProxyForURL(url, host) {
         shExpMatch(host, "*.internal.govt") ||
  
         shExpMatch(host, "*.microsoft.com") ||
+        shExpMatch(host, "*.microsoftazuread-sso.com") ||
         shExpMatch(host, "*.windows.net") ||
         shExpMatch(host, "*.azure.com") ||
         shExpMatch(host, "*.msftauth.net") ||
