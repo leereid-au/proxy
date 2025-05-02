@@ -47,6 +47,7 @@ function FindProxyForURL(url, host) {
         shExpMatch(host, "*.live.com") ||
         shExpMatch(host, "*.microsoftonline.com") ||
         shExpMatch(host, "*.microsoftonline-p.com") ||
+        shExpMatch(host, "login.microsoftonline.com") ||
         shExpMatch(host, "*.login.microsoftonline.com") ||
         shExpMatch(host, "*.aadcdn.msauth.net") ||
         shExpMatch(host, "*.aadcdn.msftauth.net") ||
