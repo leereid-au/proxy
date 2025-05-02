@@ -35,7 +35,6 @@ function FindProxyForURL(url, host) {
         host === "outlook.office365.com" ||
         host === "remotehelp.microsoft.com" ||
         shExpMatch(host, "*.internal.govt") ||
-shExpMatch(host, "*.t1cloud.com") ||
  
         shExpMatch(host, "*.microsoft.com") ||
         shExpMatch(host, "*.microsoftazuread-sso.com") ||
