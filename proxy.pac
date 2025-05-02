@@ -16,7 +16,7 @@ var directDomains = [
   "*.lync.com", "*.teams.microsoft.com", "teams.microsoft.com",
   "outlook.cloud.microsoft", "outlook.office.com", "outlook.office365.com",
   "remotehelp.microsoft.com", "*.internal.govt", "dcceew2.sharepoint.com","deptagriculture.sharepoint.com",
-  "deptagriculture.sharepoint.com.mcas.ms","*.incontact.com", "www.nice.com","*.niceincontact.com","*.nice-incontact.com","cxagent.nicecxone.com","login.microsoft.com",
+  "deptagriculture.sharepoint.com.mcas.ms","*.incontact.com", "www.nice.com","*.niceincontact.com","*.nice-incontact.com","cxagent.nicecxone.com","login.microsoftonline.com",
 
   // WinHTTP bypass list
   "*.microsoft.com", "*.windows.net", "*.azure.com", "*.msftauth.net",
